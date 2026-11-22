@@ -1,27 +1,8 @@
-```
-                  _.-~~~~~~~~~~~~-._
-               .-~   __..----..__   ~-.
-             .'   .-~ /  / \  \ ~-.    '.
-            /    /   /  /   \  \   \     \
-        .--/    /   /  /     \  \   \     \--.
-       / _|    |   /  / .   . \  \   |    |_ \
-      | | |    |  |  .-~-. .-~-.  |  |    | | |
-      | | |    |  | | (O)| |(O) | |  |    | | |
-      | |_|    |  |  '-~-' '-~-'  |  |    |_| |
-       \  |    |   \  ///   ///  /   |    |  /
-        '-|    |    \    'w'    /    |    |-'
-          |    |     '-._____.-'     |    |
-          |   / \       |   |       / \   |
-           \_/   \______|   |______/   \_/
-                 /      '._.'      \
-                /    ~  [ * ]  ~    \
-```
-
 ## Hi, I'm Mateusz
 
 Web developer, currently a webmaster at Pikseo and a cybersecurity student.
 
-I build fast business-card websites in **Astro**, put web apps up on **Laravel** and **Next.js**, write backends and tooling in **Python**, and look after a lot of WordPress along the way. Outside of work I make music as a hobby producer, which is also why I contribute to **Suhina**, an open-source DAW for Linux written in Rust.
+I know my way around **SEO**: right now I mostly build business websites designed to rank, with clean structure, fast load times and on-page optimization. I build fast business-card websites in **Astro**, put web apps up on **Laravel** and **Next.js**, write backends and tooling in **Python**, and look after a lot of WordPress along the way. Outside of work I make music as a hobby producer, which is also why I contribute to **Suhina**, an open-source DAW for Linux written in Rust.
 
 ### Stack
 
