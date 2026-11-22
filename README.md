@@ -1,22 +1,50 @@
-# Hi, I'm Mateusz 👋
+```
+  █   █   ███   █████  █████  █   █   ████  █████
+  ██ ██  █   █    █    █      █   █  █         █
+  █ █ █  █████    █    ████   █   █   ███     █
+  █   █  █   █    █    █      █   █      █   █
+  █   █  █   █    █    █████   ███   ████   █████
 
-Web developer from Toruń, Poland, currently a webmaster at Pikseo and a cybersecurity student.
+  ░▒▓ web developer ── torun, pl ── ▁▂▃▅▇▅▃▂▁ ▓▒░
+```
 
-I build fast business-card websites in **Astro**, put web apps up on **Laravel** and **Next.js**, write backends and tooling in **Python**, and look after a lot of WordPress along the way. In my spare time I contribute to **Suhina**, an open-source DAW for Linux written in Rust.
+```
+$ whoami
+  mateusz wirkus
+  webmaster @ pikseo
+  cybersecurity student
+  contributor @ suhina, an open-source DAW for linux (rust)
 
-🌐 [mateuszwirkus.pl](https://mateuszwirkus.pl) · 💼 [LinkedIn](https://www.linkedin.com/in/wirkusm/)
+$ cat what-i-do.txt
+  > business-card websites in astro
+  > web apps on laravel and next.js
+  > python backends, scrapers and cli tools
+  > wordpress, seo and keeping old sites alive
 
-## Stack
+$ ls ~/stack
+  astro/   next.js/   react/   vue/   typescript/
+  laravel/ php/       python/  wordpress/
+  rust/    linux/     seo/
+```
 
-- **Frontend:** Astro · Next.js · React · Vue · TypeScript
-- **Backend:** Laravel · PHP · Python
-- **CMS:** WordPress · PrestaShop
-- **Also:** Rust · SEO · Linux
+```
++-------------------------------------------------------------+
+|  ./projects                                                 |
++-------------------------------------------------------------+
+```
 
-## Projects
+| | repo | what it is |
+|---|---|---|
+| `>` | [suhina-daw](https://github.com/mrmatek11/suhina-daw) | contributor to Suhina, an open-source clip-launching DAW for Linux, in Rust |
+| `>` | [suhina-web](https://github.com/mrmatek11/suhina-web) | full redesign and rebuild of [suhina.org](https://suhina.org), Vue 3 + Vite, prerendered |
+| `>` | [webscraper](https://github.com/mrmatek11/webscraper) | full-page screenshots and site backups into dated ZIPs, Playwright |
+| `>` | [wordpress-version-php-checker](https://github.com/mrmatek11/wordpress-version-php-checker) | WordPress and PHP version from a URL, one file, zero deps |
+| `>` | [norelock.lol](https://github.com/mrmatek11/norelock.lol) | performance optimization of a friend's personal site |
 
-- **[suhina-daw](https://github.com/mrmatek11/suhina-daw)**: contributor to Suhina, an open-source clip-launching DAW for Linux, written in Rust
-- **[suhina-web](https://github.com/mrmatek11/suhina-web)**: full redesign and rebuild of [suhina.org](https://suhina.org) in Vue 3 + Vite, prerendered to static HTML
-- **[webscraper](https://github.com/mrmatek11/webscraper)**: full-page screenshots and complete site backups saved into dated ZIPs, built on Playwright
-- **[wordpress-version-php-checker](https://github.com/mrmatek11/wordpress-version-php-checker)**: detects a site's WordPress and PHP version from its URL, in one file with no dependencies
-- **[norelock.lol](https://github.com/mrmatek11/norelock.lol)**: performance optimization of a friend's personal site
+```
++-------------------------------------------------------------+
+|  $ ping mateuszwirkus.pl                                    |
++-------------------------------------------------------------+
+```
+
+**[mateuszwirkus.pl](https://mateuszwirkus.pl)**
