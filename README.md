@@ -1,54 +1,43 @@
 ```
- ███╗   ███╗ █████╗ ████████╗███████╗██╗   ██╗███████╗███████╗
- ████╗ ████║██╔══██╗╚══██╔══╝██╔════╝██║   ██║██╔════╝╚══███╔╝
- ██╔████╔██║███████║   ██║   █████╗  ██║   ██║███████╗  ███╔╝
- ██║╚██╔╝██║██╔══██║   ██║   ██╔══╝  ██║   ██║╚════██║ ███╔╝
- ██║ ╚═╝ ██║██║  ██║   ██║   ███████╗╚██████╔╝███████║███████╗
- ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝ ╚═════╝ ╚══════╝╚══════╝
-
- ▁▂▃▅▆▇▆▅▃▂▁▁▂▃▅▆▇▆▅▃▂▁  web developer  ▁▂▃▅▆▇▆▅▃▂▁▁▂▃▅▆▇▆▅▃▂▁
+                  _.-~~~~~~~~~~~~-._
+               .-~   __..----..__   ~-.
+             .'   .-~ /  / \  \ ~-.    '.
+            /    /   /  /   \  \   \     \
+        .--/    /   /  /     \  \   \     \--.
+       / _|    |   /  / .   . \  \   |    |_ \
+      | | |    |  |  .-~-. .-~-.  |  |    | | |
+      | | |    |  | | (O)| |(O) | |  |    | | |
+      | |_|    |  |  '-~-' '-~-'  |  |    |_| |
+       \  |    |   \  ///   ///  /   |    |  /
+        '-|    |    \    'w'    /    |    |-'
+          |    |     '-._____.-'     |    |
+          |   / \       |   |       / \   |
+           \_/   \______|   |______/   \_/
+                 /      '._.'      \
+                /    ~  [ * ]  ~    \
 ```
 
-```
-╭────────────────────────────────────────────────────────────────╮
-│ ~ $ whoami                                                     │
-│                                                                │
-│   webmaster ......................................... pikseo   │
-│   student .................................... cybersecurity   │
-│   contributor .............. suhina, open-source daw (linux)   │
-│                                                                │
-│ ~ $ cat what-i-do                                              │
-│                                                                │
-│   [*] business-card websites in astro                          │
-│   [*] web apps on laravel and next.js                          │
-│   [*] python backends, scrapers and cli tools                  │
-│   [*] wordpress, seo, keeping old sites alive                  │
-│                                                                │
-│ ~ $ ls stack/                                                  │
-│                                                                │
-│   astro    next.js   react    vue       typescript             │
-│   laravel  php       python   wordpress rust      linux        │
-╰────────────────────────────────────────────────────────────────╯
-```
+## Hi, I'm Mateusz
 
-```
-╭────────────────────────────────────────────────────────────────╮
-│ ~ $ ls projects/                                               │
-╰────────────────────────────────────────────────────────────────╯
-```
+Web developer, currently a webmaster at Pikseo and a cybersecurity student.
 
-| | repo | what it is |
-|:-:|---|---|
-| `01` | [suhina-daw](https://github.com/mrmatek11/suhina-daw) | contributor to Suhina, an open-source clip-launching DAW for Linux, in Rust |
-| `02` | [suhina-web](https://github.com/mrmatek11/suhina-web) | full redesign and rebuild of [suhina.org](https://suhina.org), Vue 3 + Vite, prerendered |
-| `03` | [webscraper](https://github.com/mrmatek11/webscraper) | full-page screenshots and site backups into dated ZIPs, Playwright |
-| `04` | [wordpress-version-php-checker](https://github.com/mrmatek11/wordpress-version-php-checker) | WordPress and PHP version from a URL, one file, zero deps |
-| `05` | [norelock.lol](https://github.com/mrmatek11/norelock.lol) | performance optimization of a friend's personal site |
+I build fast business-card websites in **Astro**, put web apps up on **Laravel** and **Next.js**, write backends and tooling in **Python**, and look after a lot of WordPress along the way. In my spare time I contribute to **Suhina**, an open-source DAW for Linux written in Rust.
 
-```
-╭────────────────────────────────────────────────────────────────╮
-│ ~ $ open https://mateuszwirkus.pl                              │
-╰────────────────────────────────────────────────────────────────╯
-```
+### Stack
 
-<p align="center"><b><a href="https://mateuszwirkus.pl">mateuszwirkus.pl</a></b></p>
+- **Frontend:** Astro, Next.js, React, Vue, TypeScript
+- **Backend:** Laravel, PHP, Python
+- **CMS:** WordPress, PrestaShop
+- **Also:** Rust, Linux, SEO
+
+### Projects
+
+- **[suhina-daw](https://github.com/mrmatek11/suhina-daw)**: contributor to Suhina, an open-source clip-launching DAW for Linux, written in Rust
+- **[suhina-web](https://github.com/mrmatek11/suhina-web)**: full redesign and rebuild of [suhina.org](https://suhina.org) in Vue 3 + Vite, prerendered to static HTML
+- **[webscraper](https://github.com/mrmatek11/webscraper)**: full-page screenshots and complete site backups saved into dated ZIPs, built on Playwright
+- **[wordpress-version-php-checker](https://github.com/mrmatek11/wordpress-version-php-checker)**: detects a site's WordPress and PHP version from its URL, in one file with no dependencies
+- **[norelock.lol](https://github.com/mrmatek11/norelock.lol)**: performance optimization of a friend's personal site
+
+### Contact
+
+[mateuszwirkus.pl](https://mateuszwirkus.pl)
