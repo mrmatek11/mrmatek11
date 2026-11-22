@@ -21,7 +21,7 @@
 
 Web developer, currently a webmaster at Pikseo and a cybersecurity student.
 
-I build fast business-card websites in **Astro**, put web apps up on **Laravel** and **Next.js**, write backends and tooling in **Python**, and look after a lot of WordPress along the way. In my spare time I contribute to **Suhina**, an open-source DAW for Linux written in Rust.
+I build fast business-card websites in **Astro**, put web apps up on **Laravel** and **Next.js**, write backends and tooling in **Python**, and look after a lot of WordPress along the way. Outside of work I make music as a hobby producer, which is also why I contribute to **Suhina**, an open-source DAW for Linux written in Rust.
 
 ### Stack
 
